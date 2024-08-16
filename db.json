@@ -1,263 +1,204 @@
 {
-  "posts": [{
+  "exercises": [
+    {
       "id": 1,
-      "username": "dev",
-      "password": "123456",
-      "firstName": "dev",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Push-Up",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "A basic bodyweight exercise targeting the chest and triceps."
     },
     {
       "id": 2,
-      "username": "Jamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Pull-Up",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Hard",
+      "description": "An advanced bodyweight exercise for the back and biceps."
     },
     {
       "id": 3,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Squat",
+      "type": "Strength",
+      "category": "Lower Body",
+      "difficulty": "Medium",
+      "description": "A fundamental exercise that targets the thighs, hips, and buttocks."
     },
     {
       "id": 4,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Burpee",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Hard",
+      "description": "A high-intensity exercise combining a squat, jump, and push-up."
     },
     {
       "id": 5,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Lunge",
+      "type": "Strength",
+      "category": "Lower Body",
+      "difficulty": "Easy",
+      "description": "A lower body exercise that targets the quads, glutes, and hamstrings."
     },
     {
       "id": 6,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Plank",
+      "type": "Core",
+      "category": "Core",
+      "difficulty": "Medium",
+      "description": "A core-strengthening exercise that also engages the shoulders and back."
     },
     {
       "id": 7,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Mountain Climber",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Medium",
+      "description": "A cardio exercise that simulates climbing a mountain with alternating knee drives."
     },
     {
       "id": 8,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Deadlift",
+      "type": "Strength",
+      "category": "Full Body",
+      "difficulty": "Hard",
+      "description": "A compound exercise that targets the back, glutes, and legs."
     },
     {
       "id": 9,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Bicep Curl",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Easy",
+      "description": "An isolation exercise that targets the biceps."
     },
     {
       "id": 10,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Tricep Dip",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the triceps and shoulders."
     },
     {
       "id": 11,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Leg Raise",
+      "type": "Core",
+      "category": "Core",
+      "difficulty": "Medium",
+      "description": "A core exercise focusing on the lower abs."
     },
     {
       "id": 12,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Jumping Jack",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Easy",
+      "description": "A classic cardio exercise involving jumping while spreading arms and legs."
     },
     {
       "id": 13,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Bench Press",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Hard",
+      "description": "An exercise that targets the chest, shoulders, and triceps."
     },
     {
       "id": 14,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Row",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the back and biceps, performed using a rowing machine or barbell."
     },
     {
       "id": 15,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
+      "name": "Russian Twist",
+      "type": "Core",
+      "category": "Core",
+      "difficulty": "Medium",
+      "description": "A core exercise that works the obliques by twisting the torso."
     },
     {
       "id": 16,
-      "username": "Kamal",
-      "password": "123456",
-      "firstName": "Jamal",
-      "lastName": "test",
-      "token": "asdfgsfhdfdgjgj"
-    }
-  ],
-  "comments": [{
-    "id": 1,
-    "body": "some comment",
-    "postId": 1
-  }],
-  
-  
-  "PersonalInfo": [
-    {
-      "id": 1,
-      "Name": "Name 001",
-      "DateofBirth": "01-01-1991",
-      "MobileNo": "Mobile No 001",
-      "Country": "Country 001"
-    },
-    {
-      "id": 2,
-      "Name": "Name 002",
-      "DateofBirth": "01-01-1992",
-      "MobileNo": "Mobile No 002",
-      "Country": "Country 002"
-    },
-    {
-      "id": 3,
-      "Name": "Name 003",
-      "DateofBirth": "01-01-1993",
-      "MobileNo": "Mobile No 003",
-      "Country": "Country 003"
-    },
-    {
-      "id": 4,
-      "Name": "Name 004",
-      "DateofBirth": "01-01-1994",
-      "MobileNo": "Mobile No 004",
-      "Country": "Country 004"
-    },
-    {
-      "id": 5,
-      "Name": "Name 005",
-      "DateofBirth": "01-01-1995",
-      "MobileNo": "Mobile No 005",
-      "Country": "Country 005"
-    },
-    {
-      "id": 6,
-      "Name": "Name 006",
-      "DateofBirth": "01-01-1996",
-      "MobileNo": "Mobile No 006",
-      "Country": "Country 006"
-    },
-    {
-      "id": 7,
-      "Name": "Name 007",
-      "DateofBirth": "01-01-1997",
-      "MobileNo": "Mobile No 007",
-      "Country": "Country 007"
-    },
-    {
-      "id": 8,
-      "Name": "Name 008",
-      "DateofBirth": "01-01-1998",
-      "MobileNo": "Mobile No 008",
-      "Country": "Country 008"
-    },
-    {
-      "id": 9,
-      "Name": "Name 009",
-      "DateofBirth": "01-01-1999",
-      "MobileNo": "Mobile No 009",
-      "Country": "Country 009"
-    },
-    {
-      "id": 10,
-      "Name": "Name 0010",
-      "DateofBirth": "01-01-1981",
-      "MobileNo": "Mobile No 0010",
-      "Country": "Country 0010"
-    },
-    {
-      "id": 11,
-      "Name": "Name 0011",
-      "DateofBirth": "01-01-1982",
-      "MobileNo": "Mobile No 0011",
-      "Country": "Country 0011"
-    },
-    {
-      "id": 12,
-      "Name": "Name 0012",
-      "DateofBirth": "01-01-1982",
-      "MobileNo": "Mobile No 0012",
-      "Country": "Country 0012"
-    },
-    {
-      "id": 13,
-      "Name": "Name 0013",
-      "DateofBirth": "01-01-1983",
-      "MobileNo": "Mobile No 0013",
-      "Country": "Country 0013"
-    },
-    {
-      "id": 14,
-      "Name": "Name 0014",
-      "DateofBirth": "01-01-1984",
-      "MobileNo": "Mobile No 0014",
-      "Country": "Country 0014"
-    },
-    {
-      "id": 15,
-      "Name": "Name 0015",
-      "DateofBirth": "01-01-1985",
-      "MobileNo": "Mobile No 0015",
-      "Country": "Country 0015"
-    },
-    {
-      "id": 16,
-      "Name": "Name 0016",
-      "DateofBirth": "01-01-1986",
-      "MobileNo": "Mobile No 0016",
-      "Country": "Country 0016"
+      "name": "Chest Fly",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the chest using dumbbells."
     },
     {
       "id": 17,
-      "Name": "Name 0017",
-      "DateofBirth": "01-01-1987",
-      "MobileNo": "Mobile No 0017",
-      "Country": "Country 0017"
+      "name": "Cable Pullover",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the lats and chest using a cable machine."
+    },
+    {
+      "id": 18,
+      "name": "Kettlebell Swing",
+      "type": "Strength",
+      "category": "Full Body",
+      "difficulty": "Medium",
+      "description": "A dynamic exercise that targets the glutes, hips, and core."
+    },
+    {
+      "id": 19,
+      "name": "Hip Thrust",
+      "type": "Strength",
+      "category": "Lower Body",
+      "difficulty": "Medium",
+      "description": "An exercise that focuses on the glutes, performed by thrusting the hips upward."
+    },
+    {
+      "id": 20,
+      "name": "Shoulder Press",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the shoulders and triceps using dumbbells or a barbell."
+    },
+    {
+      "id": 21,
+      "name": "Face Pull",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Easy",
+      "description": "An exercise that targets the rear deltoids and upper back."
+    },
+    {
+      "id": 22,
+      "name": "Glute Bridge",
+      "type": "Strength",
+      "category": "Lower Body",
+      "difficulty": "Easy",
+      "description": "An exercise that targets the glutes and hamstrings while lying on the back."
+    },
+    {
+      "id": 23,
+      "name": "Side Plank",
+      "type": "Core",
+      "category": "Core",
+      "difficulty": "Medium",
+      "description": "A variation of the plank that focuses on the oblique muscles."
+    },
+    {
+      "id": 24,
+      "name": "Jump Rope",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Medium",
+      "description": "A cardio exercise that improves coordination and endurance."
+    },
+    {
+      "id": 25,
+      "name": "Burpee Box Jump",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Hard",
+      "description": "A high-intensity exercise combining a burpee with a box jump for added challenge."
     }
-  ],
-  
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
